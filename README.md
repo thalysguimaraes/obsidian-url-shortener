@@ -1,5 +1,7 @@
 # Quick URL Shortener for Obsidian
 
+![Banner](banner-image.jpg)
+
 ![Obsidian Downloads](https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=downloads&query=%24%5B%22obsidian-url-shortener%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json)
 ![GitHub stars](https://img.shields.io/github/stars/thalysguimaraes/obsidian-url-shortener?style=flat)
 ![Latest Release](https://img.shields.io/github/v/release/thalysguimaraes/obsidian-url-shortener)
@@ -14,12 +16,6 @@ A beautiful and intuitive Obsidian plugin that automatically detects when you pa
 - 🎯 **Non-intrusive**: Bottom-sliding popover that doesn't interfere with your workflow
 - 🎮 **Command Palette Support**: Shorten URLs at cursor position via command palette
 - 📱 **Cross-platform**: Works on desktop and mobile versions of Obsidian
-
-## 🎬 Demo
-
-![URL Shortener Demo](https://github.com/thalysguimaraes/obsidian-url-shortener/assets/demo.gif)
-
-When you paste a URL, a beautiful popover slides up from the bottom with a spring animation, offering to shorten your URL with just one click.
 
 ## 📦 Installation
 
