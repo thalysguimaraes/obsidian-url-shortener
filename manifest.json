@@ -1,0 +1,13 @@
+{
+	"id": "obsidian-url-shortener",
+	"name": "Quick URL Shortener",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Quickly shorten URLs when pasting them into your notes with a beautiful bottom-sliding popover",
+	"author": "Thalys Guimarães",
+	"authorUrl": "https://github.com/thalysguimaraes",
+	"isDesktopOnly": false,
+	"fundingUrl": {
+		"Buy Me a Coffee": "https://buymeacoffee.com/thalysguimaraes"
+	}
+}
